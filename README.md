@@ -16,7 +16,7 @@ This is a simple web app that allows you to convert text containing emoji codes 
 ```
 ## Note
 
-If you need to add new emojis to the conversion, you can update the emojiMap.json file by adding the new emoji code and its corresponding Unicode character. You can find the Unicode character for an emoji on the Emojipedia website. After updating the ~emojiMap.js` file, save the changes and refresh the page in your web browser to see the new emoji codes added to the conversion.
+If you need to add new emojis to the conversion, you can update the `emojiMap.js` file by adding the new emoji code and its corresponding Unicode character. You can find the Unicode character for an emoji on the [Emojipedia](https://emojipedia.org/) website. After updating the `emojiMap.js` file, save the changes and refresh the page in your web browser to see the new emoji codes added to the conversion.
 
 ## Credits
 
